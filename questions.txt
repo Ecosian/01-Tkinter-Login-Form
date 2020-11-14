@@ -1,6 +1,0 @@
-Which Language has been used to make this program?
- C#
- Java
- Python
- C++
-C
